@@ -1,7 +1,0 @@
-C:\Users\Nicholas\Desktop\Ashley\Ashley\Intermediate\Build\Win64\UE4Editor\Development\Ashley\Definitions.Ashley.h
-C:\Users\Nicholas\Desktop\Ashley\Ashley\Source\Ashley\AshleyGameModeBase.h
-D:\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
-D:\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
-D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
-D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-C:\Users\Nicholas\Desktop\Ashley\Ashley\Intermediate\Build\Win64\UE4Editor\Inc\Ashley\AshleyGameModeBase.generated.h
