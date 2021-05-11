@@ -1,0 +1,2 @@
+C:\Users\Nicholas\Desktop\Ashley\Ashley\Intermediate\Build\Win64\UE4Editor\Development\Ashley\Definitions.Ashley.h
+C:\Users\Nicholas\Desktop\Ashley\Ashley\Source\Ashley\Ashley.h
